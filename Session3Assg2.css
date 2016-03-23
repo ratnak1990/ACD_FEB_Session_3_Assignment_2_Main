@@ -1,0 +1,38 @@
+#word{
+    color: rgb(0, 170, 255);
+    font-size: 70px;
+}
+
+.head1{
+    display: inline-block;
+}
+#press{
+   font-size: 70px;
+}
+
+.content{
+    font-size: 20px;
+}
+#fileUpload{
+    border-radius: 0px;
+    
+}
+#textBox{
+    width:160px;
+    height:20px;
+    margin-left: 10px;
+     vertical-align: text-bottom;
+}
+
+#searchButton{
+    width:20px;
+    height:20px;
+}
+
+.content2{
+    font-size: 19px;
+    display: inline-block;
+    margin-left: 0px;
+   
+   
+}
